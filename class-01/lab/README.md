@@ -10,12 +10,11 @@
 
 1. Create an index.html file.
 2. Inside your newly created index.html file create a `<head>`, and `<body>` tag.
-3. In your head tag create a stylesheet link to add a .css file
-4. Now inside your <body> tag we want the following tags:
-   - `<header>`, this is where our main content lives.
-     - `<h1>`, we will use this as our page's main title.
+3. In your `<head>` tag create a stylesheet link to add a .css file
+4. Now inside your `<body>` tag we want the following tags:
    - `<main>`, this is where our main content lives.
-     - `<p>`, tell us about yourself.
+   - `<h1>`, we will use this as our page's main title.
+   - `<p>`, tell us about yourself.
    - `<footer>`, put a copyright here with your name.
 5. If there are any lingering issues with the setup or functionality of your laptop and the software installations, we need to individually address that right away.
 
