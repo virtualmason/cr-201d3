@@ -12,7 +12,7 @@
 - Replace `<div>` tags with more specific HTML 5 tags. 
 
 
-### Strech goals (+1 point of extra credit each):
+### Stretch goals (+1 point of extra credit each):
 - Add a video to your project.
 - Add meta tags inside your HTML `<head>`.
 - Add an open source font to your project.
