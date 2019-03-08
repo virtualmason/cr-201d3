@@ -6,7 +6,7 @@
 ### Technical Requirements for "About Me"
 - Use CSS to change the typeface in, a minimum of, two places.
 - Use CSS to change the color in, a minimum of, two places.
-- Add three images to your second HTML page.
+- Add three images to a page of your choice.
 - Use the alt attribute to add an accurate description to each of your images.
 - Use CSS float and clear properties.
 - Replace `<div>` tags with more specific HTML 5 tags. 
