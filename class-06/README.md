@@ -110,6 +110,9 @@ Our standard config file is located in the root of this repository.
 
 ## Readings
 
+**Git**
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
 **JS Chapter 1: "The ABC of Programming"**
 
 - p.16 	Designing a script
