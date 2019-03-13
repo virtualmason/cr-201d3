@@ -1,4 +1,4 @@
-# Class 8: Control Flow with JS
+git # Class 8: Control Flow with JS
 
 <a id="top"></a>
 ## Lecture 8
