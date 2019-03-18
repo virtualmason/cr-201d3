@@ -1,4 +1,4 @@
-# Assignment Overview: Lab 6
+# Assignment Overview: Lab 11
 
 In class, we learned how to model an entity in JavaScript using objects. Now, it's your turn to start building an application that models the problem domain in the support doc linked in *Helpful Resources*.
 
