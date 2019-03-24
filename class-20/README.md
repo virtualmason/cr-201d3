@@ -13,7 +13,7 @@
 
 **Learning Objectives**
 
-As a result of completing Lecture 15 of Code 201, students will:
+As a result of completing Lecture 20 of Code 201, students will:
 - Have an understanding of the fundamentals of Code 301 topics, as measured by observations from the instructional staff during class discussion.
 - Have an understanding of how to successfully integrate Git and GitHub into a team code project, as measured by successful completion of the final project.
 - Be able to locate and utilize resources for self-study in jQuery before beginning Code 301, for those students that are going ahead, given recommendations from their Code 201 instructor.

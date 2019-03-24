@@ -6,7 +6,7 @@
 ## Today's Schedule
 - Announcements
   - Project Week is getting closer! Pitch your project idea in the Canvas assignment.
-  - Review feedback from week 2 surveys
+  - Review feedback from week 3 surveys
 - Discuss upcoming Career Coaching assignments
 - Code Review *[30 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
@@ -14,7 +14,7 @@
 
 **Learning Objectives**
 
-As a result of completing Lecture 11 of Code 201, students will be able to:
+As a result of completing Lecture 16 of Code 201, students will be able to:
 - Display some number of randomly selected images in a web document, and track clicks on those images, as measured by successful completion of the daily code assignment.
 - Use principles of Object-Oriented Programming to manage their vote tracker project, as measured by successful completion of the daily code assignment.
 - Retrieve data from an array of image objects and display that data as a list in the DOM, as measured by successful completion of the daily code assignment.
